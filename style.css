@@ -145,7 +145,7 @@ li.none-border{
 
     font-size: 40px;
     font-weight: bold;
-    font-family:'Roboto', sans-serif;
+    font-family:'Roboto', Arial, Helvetica, sans-serif;
     color: var(--text-color);
 }
 
